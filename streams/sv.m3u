@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TigoSports.sv",TIGO SPORTS EL SALVADOR (240p) [Not 24/7]
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 #EXTINF:-1 tvg-id="ArboldeVidaTV.sv",Árbol de Vida TV (240p) [Not 24/7]
 https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8
 #EXTINF:-1 tvg-id="AwapaSportsTV.sv",Awapa Sports TV (1080p) [Not 24/7]
